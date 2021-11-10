@@ -1,0 +1,14 @@
+#link{
+    margin: 10rem;
+    padding: .5rem;
+    text-decoration: none;
+    border: 2px solid hsl(240, 100%, 50%);
+    border-radius: 0.5rem;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+#link:hover{
+    font-weight: bold;
+    background-color: gold;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+:root{
+    --primary-color: gold;
+    --secondary-color: red;
+}
+
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+h1{
+    color: var(--primary-color);
+}
+
+h2{
+    color: var(--secondary-color);
+}
+
+#primary{
+    color: var(--primary-color);
+}
+
+#secondary{
+    color: var(--secondary-color);
+}
